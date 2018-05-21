@@ -26,3 +26,7 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: file
+  label: Add Image
+  name: add_image
+  description: A test on adding fields
