@@ -2,8 +2,9 @@
 title: Homie
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Belkirk Collegee
 partners:
+- "/uploads/2017/11/14/william-stitt-162611.jpg"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
@@ -17,10 +18,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Belkirk College of EngineeringOra et Laborazzz
 hero_button:
   text: Learn more
   href: https://www.google.com
